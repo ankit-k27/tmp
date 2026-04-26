@@ -16,9 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>TODO TestFeature1</h1>
+          <h1>Feature1 Changes</h1>
           <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            Feature 1 changes<code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
         </div>
         <button
@@ -26,7 +26,7 @@ function App() {
           className="counter"
           onClick={() => setCount((count) => count + 1)}
         >
-          Count is {count}
+          Count2 is {count}
         </button>
       </section>
 
