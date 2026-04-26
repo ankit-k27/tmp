@@ -16,7 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Feature1 Changes</h1>
+          <h1>Feature1 Changes Feature 1 More changes</h1>
           <p>
             Feature 1 changes<code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
